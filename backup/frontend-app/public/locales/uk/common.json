@@ -1,0 +1,68 @@
+{
+  "header": {
+    "home": "Головна",
+    "login": "Увійти",
+    "signup": "Реєстрація",
+    "logout": "Вийти",
+    "dashboard": "Панель керування",
+    "generate": "Генерація ідей",
+    "profile": "Профіль",
+    "trends": "Тренди",
+    "subscription": "Підписки"
+  },
+  "footer": {
+    "copyright": "© 2025 ContentAI. Всі права захищено.",
+    "slogan": "Генеруй ідеї для контенту швидко та легко"
+  },
+  "auth": {
+    "email": "Електронна пошта",
+    "password": "Пароль",
+    "login": "Увійти",
+    "signup": "Зареєструватися",
+    "forgotPassword": "Забули пароль?",
+    "alreadyHaveAccount": "Вже маєте акаунт?",
+    "dontHaveAccount": "Не маєте акаунту?",
+    "createAccount": "Створити акаунт"
+  },
+  "subscription": {
+    "title": "Підписка",
+    "free": "Безкоштовна",
+    "professional": "Професійна",
+    "premium": "Преміум",
+    "subscribe": "Оформити підписку",
+    "currentPlan": "Поточний план",
+    "upgrade": "Покращити",
+    "features": {
+      "contentGeneration": "Генерація контенту",
+      "trendAnalysis": "Аналіз трендів",
+      "advancedAnalytics": "Розширена аналітика",
+      "prioritySupport": "Пріоритетна підтримка"
+    },
+    "needSubscription": "Потрібна підписка",
+    "needSubscriptionDesc": "Для доступу до генерації ідей необхідна активна підписка."
+  },
+  "generate": {
+    "title": "Генерація ідей",
+    "platform": "Платформа",
+    "niche": "Ніша",
+    "audience": "Аудиторія",
+    "style": "Стиль",
+    "generateButton": "Згенерувати ідеї",
+    "loading": "Генерація ідей...",
+    "error": "Помилка при генерації ідей. Спробуйте пізніше.",
+    "subscriptionError": "Для генерації ідей потрібна активна підписка. Будь ласка, оформіть підписку."
+  },
+  "results": {
+    "title": "Результати генерації",
+    "hashtags": "Хештеги",
+    "trends": "Тренди",
+    "ideas": "Ідеї",
+    "noResults": "Немає результатів для відображення.",
+    "generateMore": "Згенерувати ще"
+  },
+  "language": {
+    "uk": "Українська",
+    "en": "Англійська",
+    "switchLanguage": "Змінити мову"
+  }
+} 

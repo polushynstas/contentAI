@@ -1,0 +1,21 @@
+{
+  "title": "Subscription",
+  "free": "Free",
+  "professional": "Professional",
+  "premium": "Premium",
+  "subscribe": "Subscribe",
+  "currentPlan": "Current Plan",
+  "upgrade": "Upgrade",
+  "features": {
+    "contentGeneration": "Content Generation",
+    "trendAnalysis": "Trend Analysis",
+    "advancedAnalytics": "Advanced Analytics",
+    "prioritySupport": "Priority Support",
+    "customFeatures": "Custom Features"
+  },
+  "pricing": {
+    "monthly": "monthly",
+    "yearly": "yearly",
+    "save": "Save"
+  }
+} 

@@ -1,0 +1,10 @@
+{
+  "email": "Електронна пошта",
+  "password": "Пароль",
+  "login": "Увійти",
+  "signup": "Зареєструватися",
+  "forgotPassword": "Забули пароль?",
+  "alreadyHaveAccount": "Вже маєте акаунт?",
+  "dontHaveAccount": "Не маєте акаунту?",
+  "createAccount": "Створити акаунт"
+} 

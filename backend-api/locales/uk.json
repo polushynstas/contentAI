@@ -1,0 +1,37 @@
+{
+  "messages": {
+    "success": "Успіх",
+    "error": "Помилка",
+    "unauthorized": "Неавторизований доступ",
+    "forbidden": "Доступ заборонено",
+    "not_found": "Не знайдено",
+    "internal_server_error": "Внутрішня помилка сервера"
+  },
+  "auth": {
+    "login_success": "Успішний вхід",
+    "login_failed": "Невдалий вхід",
+    "signup_success": "Успішна реєстрація",
+    "signup_failed": "Невдала реєстрація",
+    "user_exists": "Користувач з такою електронною поштою вже існує",
+    "invalid_credentials": "Невірні облікові дані",
+    "token_required": "Необхідний токен авторизації",
+    "invalid_token": "Невірний або прострочений токен"
+  },
+  "subscription": {
+    "subscription_updated": "Підписка оновлена",
+    "subscription_update_failed": "Не вдалося оновити підписку",
+    "subscription_info": "Інформація про підписку отримана",
+    "subscription_required": "Для доступу до цієї функції потрібна активна підписка"
+  },
+  "generate": {
+    "content_generated": "Контент успішно згенеровано",
+    "generation_failed": "Помилка при генерації контенту",
+    "missing_parameters": "Відсутні обов'язкові параметри",
+    "invalid_parameters": "Невірні параметри",
+    "request_limit_exceeded": "Перевищено ліміт запитів"
+  },
+  "trends": {
+    "trends_retrieved": "Тренди успішно отримані",
+    "trends_retrieval_failed": "Помилка при отриманні трендів"
+  }
+} 

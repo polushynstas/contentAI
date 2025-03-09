@@ -1,0 +1,15 @@
+{
+  "title": "User Profile",
+  "personalInfo": "Personal Information",
+  "name": "Name",
+  "email": "Email",
+  "changePassword": "Change Password",
+  "currentPassword": "Current Password",
+  "newPassword": "New Password",
+  "confirmPassword": "Confirm Password",
+  "save": "Save Changes",
+  "subscriptionInfo": "Subscription Information",
+  "currentPlan": "Current Plan",
+  "validUntil": "Valid Until",
+  "upgrade": "Upgrade Plan"
+} 

@@ -1,0 +1,37 @@
+{
+  "messages": {
+    "success": "Success",
+    "error": "Error",
+    "unauthorized": "Unauthorized access",
+    "forbidden": "Access forbidden",
+    "not_found": "Not found",
+    "internal_server_error": "Internal server error"
+  },
+  "auth": {
+    "login_success": "Login successful",
+    "login_failed": "Login failed",
+    "signup_success": "Signup successful",
+    "signup_failed": "Signup failed",
+    "user_exists": "User with this email already exists",
+    "invalid_credentials": "Invalid credentials",
+    "token_required": "Authorization token required",
+    "invalid_token": "Invalid or expired token"
+  },
+  "subscription": {
+    "subscription_updated": "Subscription updated",
+    "subscription_update_failed": "Failed to update subscription",
+    "subscription_info": "Subscription information retrieved",
+    "subscription_required": "An active subscription is required to access this feature"
+  },
+  "generate": {
+    "content_generated": "Content successfully generated",
+    "generation_failed": "Error generating content",
+    "missing_parameters": "Missing required parameters",
+    "invalid_parameters": "Invalid parameters",
+    "request_limit_exceeded": "Request limit exceeded"
+  },
+  "trends": {
+    "trends_retrieved": "Trends successfully retrieved",
+    "trends_retrieval_failed": "Error retrieving trends"
+  }
+} 

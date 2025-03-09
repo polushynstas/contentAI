@@ -1,0 +1,21 @@
+{
+  "title": "Підписка",
+  "free": "Безкоштовна",
+  "professional": "Професійна",
+  "premium": "Преміум",
+  "subscribe": "Оформити підписку",
+  "currentPlan": "Поточний план",
+  "upgrade": "Покращити",
+  "features": {
+    "contentGeneration": "Генерація контенту",
+    "trendAnalysis": "Аналіз трендів",
+    "advancedAnalytics": "Розширена аналітика",
+    "prioritySupport": "Пріоритетна підтримка",
+    "customFeatures": "Індивідуальні функції"
+  },
+  "pricing": {
+    "monthly": "щомісяця",
+    "yearly": "щорічно",
+    "save": "Економія"
+  }
+} 

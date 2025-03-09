@@ -1,0 +1,68 @@
+{
+  "header": {
+    "home": "Home",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "generate": "Generate Ideas",
+    "profile": "Profile",
+    "trends": "Trends",
+    "subscription": "Subscription"
+  },
+  "footer": {
+    "copyright": "© 2025 ContentAI. All rights reserved.",
+    "slogan": "Generate content ideas quickly and easily"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "signup": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "createAccount": "Create Account"
+  },
+  "subscription": {
+    "title": "Subscription",
+    "free": "Free",
+    "professional": "Professional",
+    "premium": "Premium",
+    "subscribe": "Subscribe",
+    "currentPlan": "Current Plan",
+    "upgrade": "Upgrade",
+    "features": {
+      "contentGeneration": "Content Generation",
+      "trendAnalysis": "Trend Analysis",
+      "advancedAnalytics": "Advanced Analytics",
+      "prioritySupport": "Priority Support"
+    },
+    "needSubscription": "Subscription Required",
+    "needSubscriptionDesc": "An active subscription is required to access idea generation."
+  },
+  "generate": {
+    "title": "Generate Ideas",
+    "platform": "Platform",
+    "niche": "Niche",
+    "audience": "Audience",
+    "style": "Style",
+    "generateButton": "Generate Ideas",
+    "loading": "Generating ideas...",
+    "error": "Error generating ideas. Please try again later.",
+    "subscriptionError": "An active subscription is required to generate ideas. Please subscribe."
+  },
+  "results": {
+    "title": "Generation Results",
+    "hashtags": "Hashtags",
+    "trends": "Trends",
+    "ideas": "Ideas",
+    "noResults": "No results to display.",
+    "generateMore": "Generate More"
+  },
+  "language": {
+    "uk": "Ukrainian",
+    "en": "English",
+    "switchLanguage": "Switch Language"
+  }
+} 

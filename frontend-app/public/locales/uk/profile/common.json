@@ -1,0 +1,15 @@
+{
+  "title": "Профіль користувача",
+  "personalInfo": "Особиста інформація",
+  "name": "Ім'я",
+  "email": "Електронна пошта",
+  "changePassword": "Змінити пароль",
+  "currentPassword": "Поточний пароль",
+  "newPassword": "Новий пароль",
+  "confirmPassword": "Підтвердіть пароль",
+  "save": "Зберегти зміни",
+  "subscriptionInfo": "Інформація про підписку",
+  "currentPlan": "Поточний план",
+  "validUntil": "Дійсний до",
+  "upgrade": "Покращити план"
+} 
