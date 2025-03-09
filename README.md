@@ -67,3 +67,6 @@
 - Бекенд: Python, Flask, SQLAlchemy
 - Фронтенд: JavaScript, React, Next.js
 - API: OpenAI, Grok, Wise 
+
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/polushynstas/contentAI?labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit%20Reviews)
